@@ -1,5 +1,4 @@
 '''
-Nathan N
 February 2021
 This is my second Wikipedia bot. It corrects spelling; reliability is limited, due to the bizarre nature of spelling errors on Wikipedia. 
 This is also has a simple find/replace program, so it could find any text and replace it with any other text. In that regard it is very reliable. 
